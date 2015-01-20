@@ -11,7 +11,7 @@
     <language>en-US</language>
     <tags>elmah common logging adapter</tags>
     <dependencies>
-      <dependency id="Common.Logging" version="2.3" />
+      <dependency id="Common.Logging" version="[2.3,3)" />
       <dependency id="elmah" />
     </dependencies>
   </metadata>
